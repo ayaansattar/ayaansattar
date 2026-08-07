@@ -16,6 +16,15 @@ I have a real portfolio at [aasattar.dev](https://aasattar.dev). this page is fo
 
 ---
 
+### currently working on
+
+### 🏸 trackbirdie
+
+Stopped playing badminton after a decade, and instead of going back, I found myself writing code to track a birdie's flight path.  
+Turns out you can take the player off the court, but you can't take the "was that out?!" out of the player.
+
+---
+
 ### 🎵 fixspotify
 
 I didn't like how Spotify worked, so I built a helper app to fix it.  
