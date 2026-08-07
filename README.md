@@ -1,6 +1,6 @@
-<img align="right" width="460" src="./hero.webp" alt="Ayaan doing something unhinged" />
-
 # hey, i'm Ayaan
+
+<img align="right" width="420" src="./hero.webp" alt="Ayaan doing something unhinged" />
 
 ### student · builder · professional button-clicker
 
