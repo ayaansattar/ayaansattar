@@ -17,6 +17,8 @@ I have a real portfolio at [aasattar.dev](https://aasattar.dev). this page is fo
 
 **Front-end engineer** @ [No Bad Days Club](https://www.nobaddaysclub.com/) · Studying at **UMass Amherst**
 
+<br clear="all" />
+
 ---
 
 ### right now
