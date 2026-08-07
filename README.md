@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="./hero.webp" width="720" alt="Ayaan doing something unhinged" />
+<table>
+<tr>
+<td valign="middle" width="58%">
 
 # hey, i'm Ayaan
 
@@ -17,9 +17,16 @@ I have a real portfolio at [aasattar.dev](https://aasattar.dev). this page is fo
 
 <br />
 
-**Front-end engineer** @ [No Bad Days Club](https://www.nobaddaysclub.com/) &nbsp;·&nbsp; Studying at **UMass Amherst**
+**Front-end engineer** @ [No Bad Days Club](https://www.nobaddaysclub.com/) · Studying at **UMass Amherst**
 
-</div>
+</td>
+<td valign="middle" align="center" width="42%">
+
+<img src="./hero.webp" width="320" alt="Ayaan doing something unhinged" />
+
+</td>
+</tr>
+</table>
 
 ---
 
