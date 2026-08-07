@@ -110,13 +110,3 @@ Team-built React Native app with campus-wide event filtering across 50+ location
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-### let's build something cool
-
-More work, demos, and experience → **[aasattar.dev](https://aasattar.dev)**
-
-</div>
