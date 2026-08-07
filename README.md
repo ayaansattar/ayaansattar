@@ -2,7 +2,7 @@
 
 <img align="right" width="420" src="./hero.webp" alt="Ayaan doing something unhinged" />
 
-### student · professional Claude Prompter · Cursor Accept Button Enthusiast
+### student · professional claude prompter · cursor accept button enthusiast
 
 I have a real portfolio at [aasattar.dev](https://aasattar.dev). this page is for vibes.
 
@@ -13,11 +13,6 @@ I have a real portfolio at [aasattar.dev](https://aasattar.dev). this page is fo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayaansattar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaansattar/)
 [![Email](https://img.shields.io/badge/Email-aasattar@umass.edu-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasattar@umass.edu)
 
-<br />
-
-**Front-end engineer** @ [No Bad Days Club](https://www.nobaddaysclub.com/) · Studying at **UMass Amherst**
-
-<br clear="all" />
 
 ---
 
