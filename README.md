@@ -16,15 +16,6 @@ I have a real portfolio at [aasattar.dev](https://aasattar.dev). this page is fo
 
 ---
 
-### right now
-
-- My go-to tech stack: Claude & Cursor
-- Building full-stack & AI-assisted products — from Spotify tooling to RAG course planning
-- Shipping marketing + product surfaces with **Next.js**, **React**, and **TypeScript**
-- Exploring systems that pair clean UX with practical backend pipelines
-
----
-
 ### 🎵 fixspotify
 
 I didn't like how Spotify worked, so I built a helper app to fix it.  
