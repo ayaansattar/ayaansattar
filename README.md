@@ -33,6 +33,11 @@ I didn't like how Spotify worked, so I built a helper app to fix it.
 The helper app now has more open issues than Spotify ever gave me.  
 I can't stop. This is a hostage situation and I am both the hostage and the negotiator.
 
+### 📍 UAppen
+
+Built a full mobile app for UMass events — map, filters, saved events, Google Calendar sync — because I refused to accept that "check the UMass events page" was a valid solution.  
+Now I never miss an event I still don't go to. But at least I'm informed.
+
 ---
 
 ### tech stack
