@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="./hero.webp" width="720" alt="Ayaan doing something unhinged" />
+
 # hey, i'm Ayaan
 
-### student · builder · front-end engineer
+### student · builder · professional button-clicker
 
-Shipping full-stack products, AI-assisted tools, and polished web experiences.
+I have a real portfolio at [aasattar.dev](https://aasattar.dev). this page is for vibes.
 
 <br />
 
