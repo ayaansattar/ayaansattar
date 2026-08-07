@@ -25,47 +25,11 @@ I have a real portfolio at [aasattar.dev](https://aasattar.dev). this page is fo
 
 ---
 
-### featured projects
+### 🎵 fixspotify
 
-<br />
-
-<details open>
-<summary><b>FixSpotify</b> — playlist intelligence for Spotify</summary>
-<br />
-
-Full-stack Spotify management with OAuth, hourly playlist sync, duplicate resolution, and Gemini-powered misfile detection.
-
-`Next.js` `TypeScript` `Prisma` `Docker` `Gemini`
-
-[![Demo](https://img.shields.io/badge/Live_Demo-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://fixspotify.duckdns.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayaansattar/FixSpotify)
-
-</details>
-
-<details open>
-<summary><b>OneStopProf</b> — RAG course-planning assistant</summary>
-<br />
-
-Course-planning Q&A grounded in Rate My Professors reviews — semantic search via ChromaDB + cited answers from Groq.
-
-`Python` `Streamlit` `ChromaDB` `Groq` `sentence-transformers`
-
-[![Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://onestopprof.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayaansattar/OneStopProf)
-
-</details>
-
-<details open>
-<summary><b>UAppen</b> — campus events for UMass</summary>
-<br />
-
-Team-built React Native app with campus-wide event filtering across 50+ locations and a FastAPI sync pipeline.
-
-`React Native` `Expo` `FastAPI` `Supabase` `SQLite`
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayaansattar/UAppen)
-
-</details>
+I didn't like how Spotify worked, so I built a helper app to fix it.  
+The helper app now has more open issues than Spotify ever gave me.  
+I can't stop. This is a hostage situation and I am both the hostage and the negotiator.
 
 ---
 
