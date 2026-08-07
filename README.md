@@ -33,6 +33,12 @@ I didn't like how Spotify worked, so I built a helper app to fix it.
 The helper app now has more open issues than Spotify ever gave me.  
 I can't stop. This is a hostage situation and I am both the hostage and the negotiator.
 
+### 🎓 OneStopProf
+
+The question "is this professor good?" used to take one Google search and some light stalking of Rate My Professors.  
+I decided that wasn't enough, so I built a GraphQL scraper, embedded thousands of reviews with sentence-transformers, indexed them in ChromaDB, and wired up Llama 3.3 to answer with citations.  
+It is, technically, the most sophisticated system I have ever built to avoid a bad Tuesday 9am.
+
 ### 📍 UAppen
 
 Built a full mobile app for UMass events — map, filters, saved events, Google Calendar sync — because I refused to accept that "check the UMass events page" was a valid solution.  
