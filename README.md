@@ -47,7 +47,7 @@ Now I never miss an event I still don't go to. But at least I'm informed.
 ### 🎬 CineLog
 
 I have a Google Doc, a Letterboxd account, and a memory that all disagree on what I've actually seen. So I built one place to settle the argument.  
-I have now spent more hours organizing my movie collection than I will ever spend watching the movies in it. but its perfect.
+I have now spent more hours organizing my movie collection than I will ever spend watching the movies in it. It's perfect.
 
 ---
 
