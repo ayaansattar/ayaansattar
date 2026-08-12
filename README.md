@@ -95,8 +95,6 @@ I have now spent more hours organizing my movie collection than I will ever spen
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
-![sentence--transformers](https://img.shields.io/badge/sentence--transformers-FF6F00?style=for-the-badge)
-![node--cron](https://img.shields.io/badge/node--cron-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **tools** (asking AI to help me set up and then forgetting how they work)
 
