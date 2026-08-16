@@ -9,7 +9,7 @@ I have a real portfolio at [aasattar.dev](https://aasattar.dev). this page is fo
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aasattar.dev-FF6B1A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aasattar.dev)
-[![Résumé](https://img.shields.io/badge/Résumé-PDF-0EA5E9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.aasattar.dev/resume.pdf)
+[![Résumé](https://img.shields.io/badge/Résumé-Google_Doc-0EA5E9?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1X-F_MIfP4g05kk11JKZ4kHbxAnI49b-nakKe4LFFV5U/preview)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayaansattar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaansattar/)
 [![Email](https://img.shields.io/badge/Email-aasattar@umass.edu-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasattar@umass.edu)
 
